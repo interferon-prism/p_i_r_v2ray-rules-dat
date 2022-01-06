@@ -5,10 +5,11 @@ on:
     - cron: "0 22 * * *"
   push:
     branches:
-      - hidden
+      - master
     paths-ignore:
       - ".editorconfig"
       - ".gitignore"
+      - "**/README.md"
 jobs:
   build:
     runs-on: ubuntu-latest
