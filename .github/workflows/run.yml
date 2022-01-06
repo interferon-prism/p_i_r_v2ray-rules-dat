@@ -7,6 +7,8 @@ on:
     branches:
       - master
     paths-ignore:
+      - ".editorconfig"
+      - ".gitignore"
       - "**/README.md"
 jobs:
   build:
