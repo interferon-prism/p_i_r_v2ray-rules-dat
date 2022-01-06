@@ -1,0 +1,8 @@
+# ide
+.idea
+
+# js
+node_modules
+
+# project
+dist
