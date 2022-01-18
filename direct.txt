@@ -1,2 +1,5 @@
 mhcii.cn
 mhcii.cloudns.nz
+
+push.apple.com
+msftconnecttest.com
