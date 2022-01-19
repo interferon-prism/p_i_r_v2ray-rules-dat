@@ -3,3 +3,4 @@ mhcii.cloudns.nz
 
 push.apple.com
 msftconnecttest.com
+quickconnect.to
