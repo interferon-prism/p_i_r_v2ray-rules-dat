@@ -1,1 +1,6 @@
+push.apple.com
+
+msftconnecttest.com
+
+synology.com
 quickconnect.to

@@ -2,5 +2,8 @@ mhcii.cn
 mhcii.cloudns.nz
 
 push.apple.com
+
 msftconnecttest.com
+
+synology.com
 quickconnect.to
