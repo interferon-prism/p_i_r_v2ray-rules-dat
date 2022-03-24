@@ -1,6 +1,8 @@
 mhcii.cn
 mhcii.cloudns.nz
 
+beryl.usbx.me
+
 push.apple.com
 
 msftconnecttest.com
